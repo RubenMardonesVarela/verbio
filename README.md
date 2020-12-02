@@ -1,6 +1,6 @@
 # VERBIO TEST
 
-Executable that takes a string as a paramter and prints the same string, but converting the words that represents numbers in digits.
+Executable that takes a string as a paramater and prints the same string, but converting the words that represents numbers in digits.
 
 
 Compilation
@@ -31,3 +31,8 @@ There are some unit tests that can be run to test different cases
 cd build/test
 
 ./verbio_test
+
+Notes
+-----------------
+
+There are still some improvements to be done, as taking into account comas and special characters next to a number. For instance, ¨three, four, five" will not be processed correctly. 
