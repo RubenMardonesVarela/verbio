@@ -6,7 +6,7 @@ Executable that takes a string as a parameter and prints the same string, but co
 Build
 -------------
 
-The build sytem is cmake. It has been compiled and tested under linux distribution, but it could also be compiled and run under windows. To buid it with cmake: 
+The build sytem is cmake. It has been compiled and tested under linux distribution, but it could also be compiled and run under windows. To build it with cmake: 
 
 mkdir build
 
@@ -28,7 +28,7 @@ cd build/src
 Run unit test
 -------------------
 
-There are some unit tests that can be run to test different cases.
+There are some unit tests that can be run to test different cases. Google test library is used to perform the unit testing.
 
 cd build/test
 
