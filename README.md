@@ -6,7 +6,7 @@ Executable that takes a string as a parameter and prints the same string, but co
 Build
 -------------
 
-The build sytem is cmake. It has been compiled and tested under linux distribution, but it could also be compiled and run under windows. To buid it with the make: 
+The build sytem is cmake. It has been compiled and tested under linux distribution, but it could also be compiled and run under windows. To buid it with cmake: 
 
 mkdir build
 
