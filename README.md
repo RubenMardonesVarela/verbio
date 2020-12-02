@@ -4,11 +4,16 @@ Executable that takes a string as a paramter and prints the same string, but con
 
 
 Compilation
+-------------
 
 mkdir build
+
 cd build
+
 cmake ..
+
 cmake --build
+
 
 Run app.
 cd build/src
