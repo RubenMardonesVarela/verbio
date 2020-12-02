@@ -1,9 +1,9 @@
 # VERBIO TEST
 
-Executable that takes a string as a paramater and prints the same string, but converting the words that represents numbers in digits.
+Executable that takes a string as a parameter and prints the same string, but converting the words that represents numbers in digits.
 
 
-Compilation
+Build
 -------------
 
 The build sytem is cmake. It has been compiled and tested under linux distribution, but it could also be compiled and run under windows. To buid it with the make: 
