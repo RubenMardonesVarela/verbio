@@ -16,7 +16,6 @@ using namespace std;
 
 int main(int argc, char **argv)
 {
-	bool finish = false;
 	string paragraph;
 	string result;
 	if(argc != 2)
