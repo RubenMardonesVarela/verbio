@@ -22,6 +22,7 @@ int main(int argc, char **argv)
 	if(argc != 2)
 	{
 		cout << "Error in parameters" << endl;
+		return 0;
 	}
 	else
 	{
