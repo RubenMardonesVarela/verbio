@@ -23,10 +23,12 @@ cd build/src
 
 ./verbio_run "your paragraph" (the paragraph must be passed as parameter in quotes)
 
+* there is also an already compiled version for linux, it can be found on bin/Linux, in case the building process is not sucessfully completed.
+
 Run unit test
 -------------------
 
-There are some unit tests that can be run to test different cases
+There are some unit tests that can be run to test different cases.
 
 cd build/test
 
